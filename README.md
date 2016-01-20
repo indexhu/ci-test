@@ -1,4 +1,4 @@
 # ci-test
 Jenkins es CircleCI teszteles
 
-Verzio: 6
+Verzio: 7
