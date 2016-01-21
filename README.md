@@ -1,4 +1,4 @@
 # ci-test
-Jenkins es CircleCI teszteles
+Jenkins es CircleCI meg egy kis Jira teszteles
 
-Verzio: 17
+Verzio: 18
